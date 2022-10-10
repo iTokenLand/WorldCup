@@ -17,8 +17,8 @@
 #### 六、其它
 
 ## 联系
-电报 (Telegram) [@iToken](https://t.me/TokenXX) 备注：世界杯APP
-邮箱：wolaidida@gmail.com 备注：世界杯APP
+电报 (Telegram) [@iToken](https://t.me/TokenXX) 
+邮箱：wolaidida@gmail.com 备注：世界杯
 
 ## 介绍
 
