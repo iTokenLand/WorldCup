@@ -1,7 +1,7 @@
-# WorldCup 足球世界杯竞猜App
+# WorldCup 足球世界杯竞猜平台（前端 + 后台）
 
 ## 开发技术
-使用 Vue 开发，兼容多平台 iOS、Android、Web。
+前端使用 Vue 开发，兼容多平台 iOS、Android、Web；后台使用Java + Mysql 开发稳定可靠。
 
 ## 主要功能
 #### 一、新闻资讯
@@ -51,3 +51,6 @@
 <img src="img/14.jpg" width="375" />
 
 <img src="img/15.jpg" width="375" /> 
+
+## 注意
+本系统只用于学习，不得用于商业项目。
