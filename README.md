@@ -17,4 +17,4 @@
 #### 六、其它
 
 ## 联系
-电报 (Telegram) [@iToken](https://t.me/TokenXX)
+电报 (Telegram) [@iToken](https://t.me/TokenXX) 备注：世界杯
