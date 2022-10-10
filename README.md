@@ -19,32 +19,34 @@
 ## 联系
 电报 (Telegram) [@iToken](https://t.me/TokenXX) 备注：世界杯APP
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/1.jpg" width="375" />      
+## 介绍
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/2.jpg" width="375" />
+<img src="img/1.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/3.jpg" width="375" />      
+<img src="img/2.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/4.jpg" width="375" />
+<img src="img/3.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/5.jpg" width="375" />      
+<img src="img/4.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/6.jpg" width="375" />
+<img src="img/5.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/7.jpg" width="375" />      
+<img src="img/6.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/8.jpg" width="375" />
+<img src="img/7.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/9.jpg" width="375" />      
+<img src="img/8.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/10.jpg" width="375" />
+<img src="img/9.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/11.jpg" width="375" />      
+<img src="img/10.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/12.jpg" width="375" />
+<img src="img/11.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/13.jpg" width="375" />      
+<img src="img/12.jpg" width="375" />
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/14.jpg" width="375" />
+<img src="img/13.jpg" width="375" />      
 
-<img src="https://github.com/iTokenLand/WorldCup/blob/main/img/15.jpg" width="375" /> 
+<img src="img/14.jpg" width="375" />
+
+<img src="img/15.jpg" width="375" /> 
