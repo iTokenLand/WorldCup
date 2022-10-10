@@ -1,7 +1,7 @@
 # WorldCup 足球世界杯竞猜平台（前端 + 后台）
 
 ## 开发技术
-前端使用 Vue 开发，兼容多平台 iOS、Android、Web；后台使用Java + Mysql 开发稳定可靠。
+前端使用 Vue 开发，兼容多平台 iOS、Android、H5；后台使用 Java + Mysql 开发稳定可靠。
 
 ## 主要功能
 #### 一、新闻资讯
